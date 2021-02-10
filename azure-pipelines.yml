@@ -15,6 +15,7 @@ steps:
     script: |
       - task: CmdLine@2
   inputs:
+  
     script: |
      - task: CmdLine@2
   inputs:
